@@ -4,5 +4,5 @@ Selenium project to automate https://www.hippovideo.io
 # Setup required
 Add external jars such as selenium,hamcrest, testng
 
-#driver needed
+# Driver needed
 chromedriver - download from seleniumhq.org
